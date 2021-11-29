@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danstands
+- 👀 I’m interested in UX/CX/Front End Design & Apps
+- 🌱 I’m currently learning all of the above
